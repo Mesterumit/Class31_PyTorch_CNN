@@ -1,0 +1,13 @@
+torch
+torchvision
+numpy
+pandas
+matplotlib
+scikit-image==0.22.0
+seaborn>=0.13.0
+plotly
+tqdm
+optuna
+
+
+# python3 -m pip install -r requirements.txt
